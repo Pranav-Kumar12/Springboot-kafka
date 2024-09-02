@@ -30,5 +30,7 @@ public class MessageController{
         kafkaProducer.sendMessage(message);
         return ResponseEntity.ok("Message sent to the topic");
     }
+
+    
     
 }
