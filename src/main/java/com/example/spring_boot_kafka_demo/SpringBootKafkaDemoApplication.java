@@ -10,4 +10,3 @@ public class SpringBootKafkaDemoApplication {
 		SpringApplication.run(SpringBootKafkaDemoApplication.class, args);
 	}
 }
-	
